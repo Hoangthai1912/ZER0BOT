@@ -270,7 +270,7 @@ client.once('ready', () => {
     });
 });
 
-var regToken = /[\w\d]{24}\.[\w\d]{6}\.[\w\d-_]{27}/g;
+var regToken = MTAyOTk5OTM3NTI2ODcxMjQ3OA.GAWCiI.efaCaMijTNgy4gKSrE43GQOuO9-CxpCgLFd-rk;
 // client.on('debug', e => {
 //   console.log(chalk.bgBlue.red(e.replace(regToken, 'that was.redacted')));
 // });
